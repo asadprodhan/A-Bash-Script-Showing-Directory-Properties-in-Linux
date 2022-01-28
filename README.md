@@ -1,0 +1,1 @@
+# A-Bash-Script-Showing-Directory-Properties-in-Linux
